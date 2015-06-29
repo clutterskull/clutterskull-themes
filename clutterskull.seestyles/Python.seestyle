@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Python">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#191919" inverted-background-color="#000000" />
+  <style id="/Python/Special Attributes"
+    color="#cc7832" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Built-in Constants"
+    color="#70acf0" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Types"
+    color="#a963da" inverted-color="#4cff4d"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Exceptions"
+    color="#ffc05c" inverted-color="#ff9e08"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Special Methods"
+    color="#e9fc9a" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Built-In Functions"
+    color="#ffc05c" inverted-color="#bb77ff"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Keywords"
+    color="#bcbafe" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Numbers"
+    color="#74fefe" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Singleline Comment"
+    color="#808080" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Python/String with triple double quotes"
+    color="#ebe4cf" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/String with triple single quotes"
+    color="#ebe4cf" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/String with double quotes"
+    color="#ebe4cf" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/String with single quotes"
+    color="#ebe4cf" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Backticks"
+    color="#ebe4cf" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

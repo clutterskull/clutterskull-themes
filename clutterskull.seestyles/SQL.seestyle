@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.SQL">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#191919" inverted-background-color="#000000" />
+  <style id="/SQL/Types"
+    color="#a963da" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/SQL/Functions"
+    color="#e9fc9a" inverted-color="#bb77ff"  font-style="normal" font-weight="normal" />
+  <style id="/SQL/Keywords"
+    color="#bcbafe" inverted-color="#dfb098"  font-style="normal" font-weight="normal" />
+  <style id="/SQL/Numbers"
+    color="#74fefe" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/SQL/FunctionRegex"
+    color="#ffc05c" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/SQL/Comment"
+    color="#808080" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/SQL/Single Comment"
+    color="#808080" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/SQL/Singleline Comment (mysql)"
+    color="#808080" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/SQL/String Singlequoted"
+    color="#ebe4cf" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/SQL/String with Backticks"
+    color="#ebe4cf" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/SQL/String Doublequoted"
+    color="#ebe4cf" inverted-color="#dd77ff"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

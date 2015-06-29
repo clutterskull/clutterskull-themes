@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<colorizer xmlns="http://www.aptana.com/2007/colorizer/1.0" language="text/xml">
+<category name="WHITESPACE" style="WHITESPACE"/>
+<style foreground="rgb(128,128,128)" id="WHITESPACE"/>
+<category name="LITERAL" style="LITERAL"/>
+<style foreground="rgb(235,228,206)" id="LITERAL"/>
+<category name="KEYWORD" style="KEYWORD"/>
+<style foreground="rgb(188,186,254)" id="KEYWORD"/>
+<category name="ERROR" style="ERROR"/>
+<style foreground="rgb(255,128,128)" id="ERROR"/>
+<category name="PUNCTUATOR" style="PUNCTUATOR">
+<token style="PUNCTUATOR_END_TAG" type="END_TAG">
+<region length="LENGTH-2" name="NAME_PART" offset="2" style="PUNCTUATOR_END_TAG_NAME_PART"/>
+<region length="2" name="TAG_PART" offset="0" style="PUNCTUATOR_END_TAG_TAG_PART"/>
+</token>
+<token style="PUNCTUATOR_START_TAG" type="START_TAG">
+<region length="LENGTH-1" name="NAME_PART" offset="1" style="PUNCTUATOR_START_TAG_NAME_PART"/>
+<region length="1" name="TAG_PART" offset="0" style="PUNCTUATOR_START_TAG_TAG_PART"/>
+</token>
+</category>
+<style foreground="rgb(193,152,102)" id="PUNCTUATOR"/>
+<style foreground="rgb(243,192,131)" id="PUNCTUATOR_END_TAG_NAME_PART"/>
+<style foreground="rgb(178,114,49)" id="PUNCTUATOR_END_TAG_TAG_PART"/>
+<style foreground="rgb(0,0,0)" id="PUNCTUATOR_END_TAG"/>
+<style foreground="rgb(243,192,131)" id="PUNCTUATOR_START_TAG_NAME_PART"/>
+<style foreground="rgb(178,114,49)" id="PUNCTUATOR_START_TAG_TAG_PART"/>
+<style foreground="rgb(0,0,0)" id="PUNCTUATOR_START_TAG"/>
+</colorizer>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<colorizer xmlns="http://www.aptana.com/2007/colorizer/1.0" language="text/yaml">
+<category name="WHITESPACE" style="WHITESPACE"/>
+<style foreground="rgb(128,128,128)" id="WHITESPACE"/>
+<category name="LITERAL" style="LITERAL">
+<token style="LITERAL_INDENT" type="INDENT"/>
+<token style="LITERAL_STRING" type="STRING"/>
+<token style="LITERAL_ROOT" type="ROOT"/>
+<token style="LITERAL_START_DOCUMENT" type="START_DOCUMENT"/>
+</category>
+<style foreground="rgb(235,228,206)" id="LITERAL"/>
+<style foreground="rgb(188,186,254)" id="LITERAL_INDENT"/>
+<style foreground="rgb(200,194,176)" id="LITERAL_STRING"/>
+<style foreground="rgb(233,252,154)" id="LITERAL_ROOT"/>
+<style foreground="rgb(193,152,218)" id="LITERAL_START_DOCUMENT"/>
+<category name="ERROR" style="ERROR"/>
+<style foreground="rgb(218,123,118)" id="ERROR"/>
+<category name="PUNCTUATOR" style="PUNCTUATOR"/>
+<style foreground="rgb(254,152,0)" id="PUNCTUATOR"/>
+</colorizer>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<colorizer xmlns="http://www.aptana.com/2007/colorizer/1.0" language="application/json">
+<category name="WHITESPACE" style="WHITESPACE"/>
+<style foreground="rgb(128,128,128)" id="WHITESPACE"/>
+<category name="LITERAL" style="LITERAL">
+<token style="LITERAL_REFERENCE" type="REFERENCE"/>
+<token style="LITERAL_NUMBER" type="NUMBER"/>
+<token style="LITERAL_PROPERTY" type="PROPERTY"/>
+</category>
+<style foreground="rgb(235,228,206)" id="LITERAL"/>
+<style foreground="rgb(255,208,132)" id="LITERAL_REFERENCE"/>
+<style foreground="rgb(255,226,115)" id="LITERAL_NUMBER"/>
+<style font-weight="bold" foreground="rgb(111,172,240)" id="LITERAL_PROPERTY"/>
+<category name="KEYWORD" style="KEYWORD"/>
+<style foreground="rgb(193,152,218)" id="KEYWORD"/>
+<category name="ERROR" style="ERROR"/>
+<style foreground="rgb(218,123,118)" id="ERROR"/>
+<category name="PUNCTUATOR" style="PUNCTUATOR"/>
+<style foreground="rgb(254,152,0)" id="PUNCTUATOR"/>
+</colorizer>
